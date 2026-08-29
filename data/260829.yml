@@ -1,0 +1,69 @@
+about:
+  description: Quarkus: Supersonic Subatomic Java. 
+  license: Apache-2.0
+  homepage: https://quarkus.io
+  head: 7634cfe
+  archived: false
+  latestVersion: 3.39.1
+  collectedAt: 2026-08-29T06:59:20Z
+timeline:
+  created: 2018-07-06
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-26
+popularity:
+  star: 15855
+  watcher: 256
+  fork: 3277
+  release: 507
+  contributor: 1229
+  pullRequest: 4717
+  issue: 21005
+language:
+  Java: 67735454
+  JavaScript: 1925184
+  HTML: 1755626
+  Kotlin: 794540
+  Shell: 67871
+  ANTLR: 45576
+  Groovy: 28650
+  Batchfile: 17721
+  Mustache: 13199
+  FreeMarker: 8106
+  CSS: 3751
+  Just: 1056
+  Dockerfile: 895
+  PLpgSQL: 220
+totalLine: 72397849
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 8
+    mergedPR: 257
+    openPR: 99
+    closedIssue: 66
+    openIssue: 41
+    commit: 494
+  last90d:
+    since: 2026-05-31
+    release: 24
+    mergedPR: 875
+    openPR: 172
+    closedIssue: 237
+    openIssue: 154
+    commit: 1924
+  last180d:
+    since: 2026-03-02
+    release: 53
+    mergedPR: 1766
+    openPR: 220
+    closedIssue: 562
+    openIssue: 264
+    commit: 3917
+  last360d:
+    since: 2025-09-03
+    release: 96
+    mergedPR: 3289
+    openPR: 254
+    closedIssue: 1241
+    openIssue: 456
+    commit: 7203
