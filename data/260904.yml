@@ -7,7 +7,7 @@ about:
   head: e1c7342
   archived: false
   latestVersion: 3.27.5.2
-  collectedAt: 2026-09-04T19:33:54Z
+  collectedAt: 2026-09-04T20:58:10Z
 timeline:
   created: 2018-07-06
   lastCommit: 2026-09-04
@@ -93,6 +93,139 @@ total:
   openIssue: 2379
   commit: 61849
 ---
+path: /home/runner/.x-repo/github.com/quarkusio/quarkus
+collectedAt: 2026-09-04T20:58:48Z
+loc:
+  Java:
+    code: 1340376
+    comments: 172538
+    blanks: 288105
+    files: 22412
+  Xml:
+    code: 164361
+    comments: 2907
+    blanks: 8133
+    files: 2128
+  AsciiDoc:
+    code: 121779
+    comments: 3114
+    blanks: 39639
+    files: 363
+  JavaScript:
+    code: 41903
+    comments: 1151
+    blanks: 3309
+    files: 2053
+  Json:
+    code: 39935
+    comments: 0
+    blanks: 8
+    files: 103
+  Svg:
+    code: 35809
+    comments: 17
+    blanks: 75
+    files: 30
+  Kotlin:
+    code: 17288
+    comments: 5040
+    blanks: 3283
+    files: 485
+  Yaml:
+    code: 12104
+    comments: 528
+    blanks: 303
+    files: 474
+  Html:
+    code: 4643
+    comments: 50
+    blanks: 664
+    files: 144
+  Sh:
+    code: 2002
+    comments: 634
+    blanks: 379
+    files: 23
+  Protobuf:
+    code: 1476
+    comments: 1016
+    blanks: 559
+    files: 91
+  Sql:
+    code: 1336
+    comments: 115
+    blanks: 214
+    files: 110
+  Batch:
+    code: 778
+    comments: 0
+    blanks: 145
+    files: 8
+  Css:
+    code: 736
+    comments: 53
+    blanks: 130
+    files: 7
+  Groovy:
+    code: 583
+    comments: 55
+    blanks: 125
+    files: 27
+  Bash:
+    code: 388
+    comments: 52
+    blanks: 38
+    files: 2
+  Mustache:
+    code: 289
+    comments: 0
+    blanks: 54
+    files: 4
+  FreeMarker:
+    code: 221
+    comments: 0
+    blanks: 28
+    files: 1
+  Python:
+    code: 160
+    comments: 37
+    blanks: 21
+    files: 1
+  Bitbake:
+    code: 77
+    comments: 1
+    blanks: 6
+    files: 8
+  TypeScript:
+    code: 51
+    comments: 0
+    blanks: 10
+    files: 2
+  Toml:
+    code: 25
+    comments: 0
+    blanks: 6
+    files: 1
+  Dockerfile:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3833
+    blanks: 1889
+    files: 143
+  Text:
+    code: 0
+    comments: 2355
+    blanks: 48
+    files: 83
+total:
+  code: 1793837
+  comments: 193570
+  blanks: 348526
+  files: 28704
 ---
 date: "2026-08-24"
 repo:
