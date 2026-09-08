@@ -5,7 +5,7 @@ about:
   head: f115434
   archived: false
   latestVersion: "3.27.5.2"
-  collectedAt: 2026-09-08T03:25:35Z
+  collectedAt: 2026-09-08T06:11:07Z
 timeline:
   created: 2018-07-06
   lastCommit: 2026-09-08
@@ -17,7 +17,7 @@ popularity:
   release: 510
   contributor: 1234
   pullRequest: 32196
-  issue: 21029
+  issue: 21030
 language:
   Java: 67882392
   JavaScript: 1925184
@@ -41,7 +41,7 @@ recent:
     mergedPR: 285
     openPR: 106
     closedIssue: 48
-    openIssue: 36
+    openIssue: 37
     commit: 432
   last60d:
     since: 2026-07-10
@@ -49,7 +49,7 @@ recent:
     mergedPR: 557
     openPR: 145
     closedIssue: 144
-    openIssue: 81
+    openIssue: 82
     commit: 1073
   last90d:
     since: 2026-06-10
@@ -57,7 +57,7 @@ recent:
     mergedPR: 905
     openPR: 177
     closedIssue: 222
-    openIssue: 133
+    openIssue: 134
     commit: 1755
   last180d:
     since: 2026-03-12
@@ -65,7 +65,7 @@ recent:
     mergedPR: 1812
     openPR: 220
     closedIssue: 561
-    openIssue: 247
+    openIssue: 248
     commit: 3954
   last360d:
     since: 2025-09-13
@@ -73,7 +73,7 @@ recent:
     mergedPR: 3333
     openPR: 262
     closedIssue: 1225
-    openIssue: 438
+    openIssue: 439
     commit: 7170
   last720d:
     since: 2024-09-18
@@ -81,18 +81,18 @@ recent:
     mergedPR: 6522
     openPR: 285
     closedIssue: 2946
-    openIssue: 843
+    openIssue: 844
     commit: 14133
 total:
   release: 510
   mergedPR: 27441
   openPR: 338
-  closedIssue: 18661
+  closedIssue: 18662
   openIssue: 2368
   commit: 61910
 ---
 path: /home/runner/.x-repo/github.com/quarkusio/quarkus
-collectedAt: 2026-09-08T03:26:39Z
+collectedAt: 2026-09-08T06:12:48Z
 loc:
   Java:
     code: 1341011
