@@ -7,7 +7,7 @@ about:
   latestVersion: "3.27.5.2"
   latestRelease: "3.27.5.2"
   latestPrerelease: "3.39.0.CR1"
-  collectedAt: 2026-09-09T18:15:37Z
+  collectedAt: 2026-09-09T20:43:45Z
 timeline:
   created: 2018-07-06
   lastCommit: 2026-09-09
@@ -21,7 +21,7 @@ popularity:
   release: 510
   contributor: 1234
   pullRequest: 32217
-  issue: 21035
+  issue: 21036
 language:
   Java: 68174468
   JavaScript: 1925184
@@ -45,7 +45,7 @@ recent:
     mergedPR: 313
     openPR: 87
     closedIssue: 53
-    openIssue: 36
+    openIssue: 37
     commit: 510
   last60d:
     since: 2026-07-11
@@ -53,7 +53,7 @@ recent:
     mergedPR: 592
     openPR: 124
     closedIssue: 148
-    openIssue: 80
+    openIssue: 81
     commit: 1156
   last90d:
     since: 2026-06-11
@@ -61,7 +61,7 @@ recent:
     mergedPR: 915
     openPR: 155
     closedIssue: 224
-    openIssue: 129
+    openIssue: 130
     commit: 1838
   last180d:
     since: 2026-03-13
@@ -69,7 +69,7 @@ recent:
     mergedPR: 1846
     openPR: 198
     closedIssue: 564
-    openIssue: 242
+    openIssue: 243
     commit: 4037
   last360d:
     since: 2025-09-14
@@ -77,7 +77,7 @@ recent:
     mergedPR: 3371
     openPR: 240
     closedIssue: 1235
-    openIssue: 434
+    openIssue: 435
     commit: 7253
   last720d:
     since: 2024-09-19
@@ -85,18 +85,18 @@ recent:
     mergedPR: 6555
     openPR: 262
     closedIssue: 2949
-    openIssue: 836
+    openIssue: 837
     commit: 14206
 total:
   release: 510
   mergedPR: 27480
   openPR: 315
   closedIssue: 18679
-  openIssue: 2356
+  openIssue: 2357
   commit: 62004
 ---
 path: /home/runner/.x-repo/github.com/quarkusio/quarkus
-collectedAt: 2026-09-09T18:17:04Z
+collectedAt: 2026-09-09T20:48:54Z
 loc:
   Java:
     code: 1344495
