@@ -7,7 +7,7 @@ about:
   latestVersion: "3.39.3"
   latestRelease: "3.39.3"
   latestPrerelease: "3.39.0.CR1"
-  collectedAt: 2026-09-10T21:48:02Z
+  collectedAt: 2026-09-10T22:13:54Z
 timeline:
   created: 2018-07-06
   lastCommit: 2026-09-10
@@ -96,7 +96,7 @@ total:
   commit: 62038
 ---
 path: /home/runner/.x-repo/github.com/quarkusio/quarkus
-collectedAt: 2026-09-10T21:49:16Z
+collectedAt: 2026-09-10T22:15:06Z
 loc:
   Java:
     code: 1344887
