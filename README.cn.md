@@ -14,13 +14,13 @@ x install quarkus
 
 ## 代码洞察
 
-合计: **1,799,791** 行代码（覆盖前 5 种语言、共 **27204** 个文件）。
+合计: **1,800,875** 行代码（覆盖前 5 种语言、共 **27213** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Java | 1,352,289 | 174,942 | 290,437 | 22561 |
-| Xml | 164,936 | 2,923 | 8,158 | 2122 |
-| AsciiDoc | 122,742 | 3,131 | 40,006 | 365 |
+| Java | 1,353,207 | 175,013 | 290,637 | 22570 |
+| Xml | 164,968 | 2,924 | 8,158 | 2122 |
+| AsciiDoc | 122,876 | 3,131 | 40,060 | 365 |
 | JavaScript | 41,903 | 1,151 | 3,309 | 2053 |
 | Json | 39,935 | 0 | 8 | 103 |
 
@@ -30,9 +30,9 @@ x install quarkus
 
 评分最低的几项:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install quarkus
 
 ## 流行度
 
-- **Star**: 15,886 · **Fork**: 3,298 · **开放 issue**: 21,060 · **贡献者**: 1,237
+- **Star**: 15,889 · **Fork**: 3,300 · **开放 issue**: 21,065 · **贡献者**: 1,239
 
 ## 累计统计
 
-- **发布数**: 511 · **已合并 PR**: 27551 · **开放 PR**: 432 · **已关闭 issue**: 18708 · **开放 issue**: 2352 · **提交数**: 62142
+- **发布数**: 511 · **已合并 PR**: 27574 · **开放 PR**: 429 · **已关闭 issue**: 18721 · **开放 issue**: 2344 · **提交数**: 62193
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 7 | 322 | 208 | 52 | 47 | 503 |
-| last60d | 2026-07-17 | 16 | 602 | 244 | 144 | 77 | 1128 |
-| 90d | 2026-06-17 | 25 | 924 | 274 | 236 | 129 | 1818 |
-| last180d | 2026-03-19 | 52 | 1861 | 314 | 556 | 237 | 4048 |
-| 360d | 2025-09-20 | 95 | 3382 | 358 | 1210 | 423 | 7259 |
-| last720d | 2024-09-25 | 100 | 6573 | 380 | 2940 | 835 | 14248 |
+| 30d | 2026-08-17 | 7 | 328 | 204 | 57 | 45 | 548 |
+| last60d | 2026-07-18 | 16 | 623 | 240 | 152 | 74 | 1173 |
+| 90d | 2026-06-18 | 22 | 934 | 269 | 242 | 125 | 1863 |
+| last180d | 2026-03-20 | 52 | 1877 | 311 | 564 | 232 | 4094 |
+| 360d | 2025-09-21 | 95 | 3405 | 355 | 1219 | 419 | 7305 |
+| last720d | 2024-09-26 | 100 | 6581 | 376 | 2942 | 826 | 14262 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ quarkus 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T06:44:45Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:42:21Z._
