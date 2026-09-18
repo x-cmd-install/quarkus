@@ -14,14 +14,14 @@ x install quarkus
 
 ## 代码洞察
 
-合计: **1,801,653** 行代码（覆盖前 5 种语言、共 **27224** 个文件）。
+合计: **1,810,665** 行代码（覆盖前 5 种语言、共 **27332** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Java | 1,353,814 | 175,113 | 290,750 | 22579 |
-| Xml | 165,122 | 2,926 | 8,166 | 2124 |
-| AsciiDoc | 122,893 | 3,131 | 40,068 | 365 |
-| JavaScript | 41,903 | 1,151 | 3,309 | 2053 |
+| Java | 1,361,610 | 175,401 | 292,451 | 22686 |
+| Xml | 165,291 | 2,948 | 8,174 | 2125 |
+| AsciiDoc | 123,327 | 3,133 | 40,210 | 365 |
+| JavaScript | 41,895 | 1,151 | 3,308 | 2053 |
 | Json | 39,935 | 0 | 8 | 103 |
 
 ## OpenSSF Scorecard 评分
@@ -42,36 +42,36 @@ x install quarkus
 
 ## 发布
 
-- **最新版本**: `3.39.3` (2026-09-10)
-- **最近提交**: 2026-09-17
+- **最新版本**: `3.40.0.CR1` (2026-09-17)
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 15,891 · **Fork**: 3,300 · **开放 issue**: 21,074 · **贡献者**: 1,239
+- **Star**: 15,891 · **Fork**: 3,300 · **开放 issue**: 21,076 · **贡献者**: 1,240
 
 ## 累计统计
 
-- **发布数**: 511 · **已合并 PR**: 27595 · **开放 PR**: 428 · **已关闭 issue**: 18727 · **开放 issue**: 2347 · **提交数**: 62218
+- **发布数**: 513 · **已合并 PR**: 27621 · **开放 PR**: 428 · **已关闭 issue**: 18741 · **开放 issue**: 2335 · **提交数**: 62297
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 7 | 339 | 204 | 58 | 51 | 574 |
-| last60d | 2026-07-19 | 16 | 640 | 239 | 153 | 80 | 1199 |
-| 90d | 2026-06-19 | 21 | 952 | 267 | 243 | 129 | 1889 |
-| last180d | 2026-03-21 | 52 | 1897 | 310 | 566 | 238 | 4120 |
-| 360d | 2025-09-22 | 95 | 3409 | 354 | 1218 | 422 | 7331 |
-| last720d | 2024-09-27 | 100 | 6589 | 375 | 2937 | 830 | 14265 |
+| 30d | 2026-08-19 | 9 | 343 | 205 | 58 | 49 | 626 |
+| last60d | 2026-07-20 | 18 | 651 | 240 | 153 | 74 | 1253 |
+| 90d | 2026-06-20 | 23 | 976 | 268 | 248 | 126 | 1945 |
+| last180d | 2026-03-22 | 54 | 1920 | 311 | 570 | 235 | 4180 |
+| 360d | 2025-09-23 | 97 | 3427 | 355 | 1220 | 415 | 7406 |
+| last720d | 2024-09-28 | 100 | 6614 | 376 | 2946 | 820 | 14313 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums_sha256.txt](https://github.com/quarkusio/quarkus/releases/download/3.39.3/checksums_sha256.txt) | 181 B | `other` |
-| [quarkus-cli-3.39.3.tar.gz](https://github.com/quarkusio/quarkus/releases/download/3.39.3/quarkus-cli-3.39.3.tar.gz) | 14.4 MiB | `native/unknown` |
-| [quarkus-cli-3.39.3.zip](https://github.com/quarkusio/quarkus/releases/download/3.39.3/quarkus-cli-3.39.3.zip) | 14.4 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/quarkusio/quarkus/releases/download/3.39.4/checksums_sha256.txt) | 181 B | `other` |
+| [quarkus-cli-3.39.4.tar.gz](https://github.com/quarkusio/quarkus/releases/download/3.39.4/quarkus-cli-3.39.4.tar.gz) | 14.4 MiB | `native/unknown` |
+| [quarkus-cli-3.39.4.zip](https://github.com/quarkusio/quarkus/releases/download/3.39.4/quarkus-cli-3.39.4.zip) | 14.4 MiB | `other` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ quarkus 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260917.yml` · 2026-09-17T06:52:40Z._
+_数据快照: `data/card/260918.yml` · 2026-09-18T06:28:40Z._
