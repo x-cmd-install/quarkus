@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 181,
       "digest": "sha256:59b37661d7e5685c2a56c3633fd27f67e562d74a10834a397a767dc67ff84ba7",
-      "download_count": 49,
+      "download_count": 51,
       "created_at": "2026-09-17T09:47:53Z",
       "updated_at": "2026-09-17T09:47:53Z",
       "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.39.4/checksums_sha256.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15067495,
       "digest": "sha256:c8db4adf8e88bd6c349fbf79f622240e3b922a66a93a3c8aa01b3f7508b233ba",
-      "download_count": 98,
+      "download_count": 138,
       "created_at": "2026-09-17T09:47:52Z",
       "updated_at": "2026-09-17T09:47:53Z",
       "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.39.4/quarkus-cli-3.39.4.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15069257,
       "digest": "sha256:b5c8f8f08aa003d0f677a909af41143c9befb66ea089d8337324e93420c939bd",
-      "download_count": 832,
+      "download_count": 1019,
       "created_at": "2026-09-17T09:47:51Z",
       "updated_at": "2026-09-17T09:47:52Z",
       "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.39.4/quarkus-cli-3.39.4.zip"
