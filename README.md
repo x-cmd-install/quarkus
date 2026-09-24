@@ -4,7 +4,7 @@
 
 Quarkus: Supersonic Subatomic Java. 
 
-[![x-cmd/install — quarkus Code Quality Monitoring Repo Card](https://repo.x-cmd.io/quarkus.svg)](https://x-cmd.com/install/quarkus)
+[![x-cmd/install — quarkus Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/quarkus.svg)](https://x-cmd.com/install/quarkus)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install quarkus
 
 ## Code insight
 
-Total: **1,814,664** lines of code across **27368** files in the top 5 languages.
+Total: **1,816,275** lines of code across **27391** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 1,365,132 | 175,832 | 293,139 | 22720 |
-| Xml | 165,349 | 2,960 | 8,174 | 2125 |
-| AsciiDoc | 123,568 | 3,139 | 40,284 | 366 |
+| Java | 1,366,602 | 176,211 | 293,455 | 22742 |
+| Xml | 165,477 | 2,969 | 8,177 | 2126 |
+| AsciiDoc | 123,569 | 3,139 | 40,285 | 366 |
 | JavaScript | 41,895 | 1,151 | 3,308 | 2053 |
 | Json | 40,103 | 0 | 8 | 104 |
 
@@ -30,9 +30,9 @@ Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile
 
 ## Source
 
@@ -42,36 +42,36 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `3.40.0.CR1` (2026-09-17)
-- **Last commit**: 2026-09-22
+- **Latest**: `3.39.5` (2026-09-23)
+- **Last commit**: 2026-09-23
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 15,894 · **Forks**: 3,306 · **Open issues**: 21,092 · **Contributors**: 1,243
+- **Stars**: 15,898 · **Forks**: 3,309 · **Open issues**: 21,103 · **Contributors**: 1,246
 
 ## Totals (cumulative)
 
-- **Releases**: 513 · **Merged PRs**: 27669 · **Open PRs**: 423 · **Closed issues**: 18759 · **Open issues**: 2333 · **Commits**: 62355
+- **Releases**: 516 · **Merged PRs**: 27696 · **Open PRs**: 417 · **Closed issues**: 18772 · **Open issues**: 2331 · **Commits**: 62408
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 8 | 362 | 196 | 55 | 56 | 539 |
-| last60d | 2026-07-24 | 17 | 651 | 231 | 137 | 77 | 1180 |
-| 90d | 2026-06-24 | 23 | 955 | 262 | 242 | 127 | 1827 |
-| last180d | 2026-03-26 | 48 | 1918 | 304 | 559 | 239 | 4100 |
-| 360d | 2025-09-27 | 92 | 3445 | 352 | 1205 | 419 | 7354 |
-| last720d | 2024-10-02 | 100 | 6617 | 372 | 2939 | 816 | 14295 |
+| 30d | 2026-08-25 | 11 | 354 | 187 | 52 | 60 | 591 |
+| last60d | 2026-07-26 | 20 | 673 | 224 | 141 | 84 | 1232 |
+| 90d | 2026-06-26 | 25 | 960 | 256 | 239 | 128 | 1879 |
+| last180d | 2026-03-28 | 51 | 1932 | 298 | 554 | 242 | 4153 |
+| 360d | 2025-09-29 | 95 | 3458 | 346 | 1199 | 424 | 7407 |
+| last720d | 2024-10-04 | 100 | 6621 | 366 | 2934 | 816 | 14304 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/quarkusio/quarkus/releases/download/3.39.4/checksums_sha256.txt) | 181 B | `other` |
-| [quarkus-cli-3.39.4.tar.gz](https://github.com/quarkusio/quarkus/releases/download/3.39.4/quarkus-cli-3.39.4.tar.gz) | 14.4 MiB | `native/unknown` |
-| [quarkus-cli-3.39.4.zip](https://github.com/quarkusio/quarkus/releases/download/3.39.4/quarkus-cli-3.39.4.zip) | 14.4 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/quarkusio/quarkus/releases/download/3.39.5/checksums_sha256.txt) | 181 B | `other` |
+| [quarkus-cli-3.39.5.tar.gz](https://github.com/quarkusio/quarkus/releases/download/3.39.5/quarkus-cli-3.39.5.tar.gz) | 14.4 MiB | `native/unknown` |
+| [quarkus-cli-3.39.5.zip](https://github.com/quarkusio/quarkus/releases/download/3.39.5/quarkus-cli-3.39.5.zip) | 14.4 MiB | `other` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for quarkus lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:38:39Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T06:03:08Z._
