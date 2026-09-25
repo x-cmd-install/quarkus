@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 181,
       "digest": "sha256:51707bb54b9e3cc9c915e3c2a07b7db3f80c389add826b8df650efc7b6dfd9b1",
-      "download_count": 29,
+      "download_count": 34,
       "created_at": "2026-09-23T17:01:28Z",
       "updated_at": "2026-09-23T17:01:29Z",
       "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.39.5/checksums_sha256.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15063840,
       "digest": "sha256:8d5a2481eddca256a2f120b91eb07d105b2ae86bfb20f427e35f777e975b2e79",
-      "download_count": 9,
+      "download_count": 23,
       "created_at": "2026-09-23T17:01:27Z",
       "updated_at": "2026-09-23T17:01:28Z",
       "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.39.5/quarkus-cli-3.39.5.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15065602,
       "digest": "sha256:892377ca0378318039864cec4665f3c1081187c7fee91beb899dffb023b937bd",
-      "download_count": 185,
+      "download_count": 558,
       "created_at": "2026-09-23T17:01:26Z",
       "updated_at": "2026-09-23T17:01:27Z",
       "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.39.5/quarkus-cli-3.39.5.zip"
