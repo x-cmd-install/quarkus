@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 15,906 · **Forks**: 3,313 · **Open issues**: 21,106 · **Contributors**: 1,248
+- **Stars**: 15,905 · **Forks**: 3,314 · **Open issues**: 21,110 · **Contributors**: 1,248
 
 ## Totals (cumulative)
 
-- **Releases**: 516 · **Merged PRs**: 27715 · **Open PRs**: 419 · **Closed issues**: 18779 · **Open issues**: 2327 · **Commits**: 62440
+- **Releases**: 516 · **Merged PRs**: 27716 · **Open PRs**: 422 · **Closed issues**: 18779 · **Open issues**: 2331 · **Commits**: 62442
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 9 | 340 | 189 | 55 | 55 | 620 |
-| last60d | 2026-07-28 | 20 | 668 | 226 | 138 | 79 | 1262 |
-| 90d | 2026-06-28 | 25 | 977 | 257 | 241 | 126 | 1909 |
-| last180d | 2026-03-30 | 51 | 1938 | 300 | 557 | 238 | 4183 |
-| 360d | 2025-10-01 | 95 | 3459 | 347 | 1193 | 422 | 7437 |
-| last720d | 2024-10-06 | 100 | 6637 | 368 | 2927 | 812 | 14303 |
+| 30d | 2026-08-28 | 9 | 329 | 190 | 51 | 54 | 478 |
+| last60d | 2026-07-29 | 20 | 650 | 229 | 136 | 79 | 1090 |
+| 90d | 2026-06-29 | 25 | 945 | 258 | 234 | 130 | 1739 |
+| last180d | 2026-03-31 | 51 | 1916 | 302 | 554 | 241 | 4032 |
+| 360d | 2025-10-02 | 94 | 3449 | 350 | 1188 | 425 | 7317 |
+| last720d | 2024-10-07 | 100 | 6626 | 371 | 2923 | 814 | 14304 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for quarkus lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T06:12:39Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:32:19Z._
