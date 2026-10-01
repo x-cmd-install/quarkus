@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/quarkusio/quarkus/releases/394878687",
-  "assets_url": "https://api.github.com/repos/quarkusio/quarkus/releases/394878687/assets",
-  "upload_url": "https://uploads.github.com/repos/quarkusio/quarkus/releases/394878687/assets{?name,label}",
-  "html_url": "https://github.com/quarkusio/quarkus/releases/tag/3.39.5",
-  "id": 394878687,
+  "url": "https://api.github.com/repos/quarkusio/quarkus/releases/399973131",
+  "assets_url": "https://api.github.com/repos/quarkusio/quarkus/releases/399973131/assets",
+  "upload_url": "https://uploads.github.com/repos/quarkusio/quarkus/releases/399973131/assets{?name,label}",
+  "html_url": "https://github.com/quarkusio/quarkus/releases/tag/3.40.1",
+  "id": 399973131,
   "author": {
     "login": "quarkusbot",
     "id": 61254497,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOCFbutM4XiV7f",
-  "tag_name": "3.39.5",
+  "node_id": "RE_kwDOCFbutM4X1xsL",
+  "tag_name": "3.40.1",
   "target_commitish": "main",
-  "name": "3.39.5",
+  "name": "3.40.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-23T10:22:18Z",
-  "updated_at": "2026-09-23T17:01:29Z",
-  "published_at": "2026-09-23T17:00:57Z",
+  "created_at": "2026-09-29T21:32:59Z",
+  "updated_at": "2026-09-30T11:21:26Z",
+  "published_at": "2026-09-30T11:20:54Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/quarkusio/quarkus/releases/assets/584213244",
-      "id": 584213244,
-      "node_id": "RA_kwDOCFbutM4i0mL8",
+      "url": "https://api.github.com/repos/quarkusio/quarkus/releases/assets/600748939",
+      "id": 600748939,
+      "node_id": "RA_kwDOCFbutM4jzrOL",
       "name": "checksums_sha256.txt",
       "label": "",
       "uploader": {
@@ -66,17 +66,17 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 181,
-      "digest": "sha256:51707bb54b9e3cc9c915e3c2a07b7db3f80c389add826b8df650efc7b6dfd9b1",
-      "download_count": 49,
-      "created_at": "2026-09-23T17:01:28Z",
-      "updated_at": "2026-09-23T17:01:29Z",
-      "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.39.5/checksums_sha256.txt"
+      "digest": "sha256:c081bd96393254f281da19683e763aec482fdd4bbc9d481afcaf470300d3afed",
+      "download_count": 33,
+      "created_at": "2026-09-30T11:21:26Z",
+      "updated_at": "2026-09-30T11:21:26Z",
+      "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.40.1/checksums_sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/quarkusio/quarkus/releases/assets/584213201",
-      "id": 584213201,
-      "node_id": "RA_kwDOCFbutM4i0mLR",
-      "name": "quarkus-cli-3.39.5.tar.gz",
+      "url": "https://api.github.com/repos/quarkusio/quarkus/releases/assets/600748906",
+      "id": 600748906,
+      "node_id": "RA_kwDOCFbutM4jzrNq",
+      "name": "quarkus-cli-3.40.1.tar.gz",
       "label": "",
       "uploader": {
         "login": "quarkusbot",
@@ -101,18 +101,18 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 15063840,
-      "digest": "sha256:8d5a2481eddca256a2f120b91eb07d105b2ae86bfb20f427e35f777e975b2e79",
-      "download_count": 101,
-      "created_at": "2026-09-23T17:01:27Z",
-      "updated_at": "2026-09-23T17:01:28Z",
-      "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.39.5/quarkus-cli-3.39.5.tar.gz"
+      "size": 15067835,
+      "digest": "sha256:c4b62e7c8709d96e59aa9dc4a176a91813d2a55a43950d16d2fc8a31c355cc9a",
+      "download_count": 12,
+      "created_at": "2026-09-30T11:21:24Z",
+      "updated_at": "2026-09-30T11:21:25Z",
+      "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.40.1/quarkus-cli-3.40.1.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/quarkusio/quarkus/releases/assets/584213169",
-      "id": 584213169,
-      "node_id": "RA_kwDOCFbutM4i0mKx",
-      "name": "quarkus-cli-3.39.5.zip",
+      "url": "https://api.github.com/repos/quarkusio/quarkus/releases/assets/600748857",
+      "id": 600748857,
+      "node_id": "RA_kwDOCFbutM4jzrM5",
+      "name": "quarkus-cli-3.40.1.zip",
       "label": "",
       "uploader": {
         "login": "quarkusbot",
@@ -137,15 +137,27 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 15065602,
-      "digest": "sha256:892377ca0378318039864cec4665f3c1081187c7fee91beb899dffb023b937bd",
-      "download_count": 1253,
-      "created_at": "2026-09-23T17:01:26Z",
-      "updated_at": "2026-09-23T17:01:27Z",
-      "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.39.5/quarkus-cli-3.39.5.zip"
+      "size": 15069606,
+      "digest": "sha256:5fa2eb9f9d6fc3392bbb569faf3a097f4df0007922a7f030e55f702aa3f8245b",
+      "download_count": 323,
+      "created_at": "2026-09-30T11:21:23Z",
+      "updated_at": "2026-09-30T11:21:24Z",
+      "browser_download_url": "https://github.com/quarkusio/quarkus/releases/download/3.40.1/quarkus-cli-3.40.1.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/quarkusio/quarkus/tarball/3.39.5",
-  "zipball_url": "https://api.github.com/repos/quarkusio/quarkus/zipball/3.39.5",
-  "body": "\n### Complete changelog\n\n  * [#56037](https://github.com/quarkusio/quarkus/pull/56037) - Always complete the export when the OTLP sender is shut down\n  * [#56255](https://github.com/quarkusio/quarkus/pull/56255) - Bump org.freemarker:freemarker from 2.3.34 to 2.3.35\n  * [#56349](https://github.com/quarkusio/quarkus/pull/56349) - [3.39] Bump to Vert.x 4.5.33\n  * [#56573](https://github.com/quarkusio/quarkus/pull/56573) - Bump aesh 3.18.0, add pipeline stage results, lazy runtime startup\n  * [#56783](https://github.com/quarkusio/quarkus/pull/56783) - Typo fixes in gRPC guides\n  * [#56796](https://github.com/quarkusio/quarkus/pull/56796) - docs: Fix the dead Jose4J link in the JWT Build guide\n  * [#56800](https://github.com/quarkusio/quarkus/pull/56800) - Add javadoc to AbstractSecurityIdentityAssociation\n  * [#56821](https://github.com/quarkusio/quarkus/pull/56821) - [3.40] SmallRye Fault Tolerance: bump to 6.11.4\n  * [#56831](https://github.com/quarkusio/quarkus/pull/56831) - [3.40] Qute: EvalSectionHelper and StrEvalNamespaceResolver fixes\n  * [#56837](https://github.com/quarkusio/quarkus/pull/56837) - Do not stack asciidoc anchors, because it does not work\n  * [#56838](https://github.com/quarkusio/quarkus/pull/56838) - Fix malformed link\n  * [#56842](https://github.com/quarkusio/quarkus/pull/56842) - Fix dead link for Redis sandbox\n  * [#56845](https://github.com/quarkusio/quarkus/pull/56845) - Bump Keycloak version to 26.7.4\n  * [#56849](https://github.com/quarkusio/quarkus/pull/56849) - [3.40] Upgrade RESTEasy to 6.2.19.Final\n  * [#56853](https://github.com/quarkusio/quarkus/pull/56853) - [3.40] Upgrade to Hibernate 7.4.9.Final\n  * [#56857](https://github.com/quarkusio/quarkus/pull/56857) - [3.40] WebSockets Next: add max-pending-messages back-pressure\n  * [#56861](https://github.com/quarkusio/quarkus/pull/56861) - [3.40] Fix path normalization bypass on wildcard routes (matrix-param + dot-segment)\n  * [#56867](https://github.com/quarkusio/quarkus/pull/56867) - [3.40] : Bump smallrye-jwt version to 4.6.4\n  * [#56884](https://github.com/quarkusio/quarkus/issues/56884) - Invalid Java interface declaration in SmallRye GraphQL guide\n  * [#56885](https://github.com/quarkusio/quarkus/pull/56885) - Fix interface inheritance in SmallRye GraphQL guide\n  * [#56920](https://github.com/quarkusio/quarkus/pull/56920) - Update Elytron to 2.9.2.SP1\n  * [#56925](https://github.com/quarkusio/quarkus/pull/56925) - aesh 3.18.1\n"
+  "tarball_url": "https://api.github.com/repos/quarkusio/quarkus/tarball/3.40.1",
+  "zipball_url": "https://api.github.com/repos/quarkusio/quarkus/zipball/3.40.1",
+  "body": "\n### Complete changelog\n\n  * [#48420](https://github.com/quarkusio/quarkus/issues/48420) - Redis with \"CacheResult\" returns \"QUEUED\" under high concurrency load\n  * [#56834](https://github.com/quarkusio/quarkus/issues/56834) - Missing RdsUtilities during Java 25 native build\n  * [#56938](https://github.com/quarkusio/quarkus/pull/56938) - Harden AeshLauncher signal protocol and timeout diagnostics\n  * [#56942](https://github.com/quarkusio/quarkus/issues/56942) - RestEasy Reactive logs warning when an endpoint has a `void` return type\n  * [#56943](https://github.com/quarkusio/quarkus/pull/56943) - Fix MariaDB GraalVM metadata when AWS SDK is on the classpath, clean up unnecessary related build items\n  * [#56944](https://github.com/quarkusio/quarkus/pull/56944) - Extend `void` check when indexing endpoints with RestEasy Reactive\n  * [#56946](https://github.com/quarkusio/quarkus/pull/56946) - WebSockets Next: fix stalled Multi stream on decode failure with backpressure\n  * [#56958](https://github.com/quarkusio/quarkus/issues/56958) - ForwardedProxyHandler leaks DNS UDP sockets — DnsClient never closed\n  * [#56961](https://github.com/quarkusio/quarkus/pull/56961) - Prevent leak of DnsClient instance when resolving proxy hostnames\n  * [#56976](https://github.com/quarkusio/quarkus/pull/56976) - Redis Client: fix error handling in blocking transaction API\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/quarkusio/quarkus/releases/399973131/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
