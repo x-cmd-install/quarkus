@@ -14,13 +14,13 @@ x install quarkus
 
 ## Code insight
 
-Total: **1,825,684** lines of code across **27516** files in the top 5 languages.
+Total: **1,825,612** lines of code across **27511** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 1,374,083 | 177,527 | 294,780 | 22858 |
-| Xml | 165,731 | 2,977 | 8,190 | 2130 |
-| AsciiDoc | 123,782 | 3,141 | 40,332 | 366 |
+| Java | 1,374,183 | 177,564 | 294,774 | 22854 |
+| Xml | 165,560 | 2,975 | 8,182 | 2129 |
+| AsciiDoc | 123,781 | 3,141 | 40,332 | 366 |
 | JavaScript | 43,367 | 1,482 | 3,462 | 2059 |
 | Json | 40,103 | 0 | 7 | 103 |
 
@@ -31,8 +31,8 @@ Overall score: **5.8 / 10**
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -42,36 +42,36 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `3.39.5` (2026-09-23)
+- **Latest**: `3.40.1` (2026-09-30)
 - **Last commit**: 2026-09-30
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 15,911 · **Forks**: 3,316 · **Open issues**: 21,118 · **Contributors**: 1,249
+- **Stars**: 15,913 · **Forks**: 3,319 · **Open issues**: 21,129 · **Contributors**: 1,250
 
 ## Totals (cumulative)
 
-- **Releases**: 516 · **Merged PRs**: 27762 · **Open PRs**: 412 · **Closed issues**: 18796 · **Open issues**: 2322 · **Commits**: 62548
+- **Releases**: 520 · **Merged PRs**: 27772 · **Open PRs**: 419 · **Closed issues**: 18801 · **Open issues**: 2328 · **Commits**: 62568
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 9 | 347 | 178 | 55 | 55 | 541 |
-| last60d | 2026-08-01 | 17 | 673 | 217 | 132 | 80 | 1154 |
-| 90d | 2026-07-02 | 24 | 949 | 246 | 231 | 126 | 1803 |
-| last180d | 2026-04-03 | 50 | 1930 | 292 | 542 | 241 | 4096 |
-| 360d | 2025-10-05 | 94 | 3484 | 340 | 1188 | 426 | 7381 |
-| last720d | 2024-10-10 | 100 | 6649 | 361 | 2914 | 807 | 14353 |
+| 30d | 2026-09-01 | 13 | 329 | 184 | 52 | 62 | 552 |
+| last60d | 2026-08-02 | 21 | 680 | 225 | 132 | 90 | 1165 |
+| 90d | 2026-07-03 | 28 | 957 | 250 | 230 | 135 | 1814 |
+| last180d | 2026-04-04 | 54 | 1937 | 299 | 543 | 251 | 4107 |
+| 360d | 2025-10-06 | 98 | 3484 | 347 | 1187 | 434 | 7392 |
+| last720d | 2024-10-11 | 100 | 6651 | 368 | 2916 | 814 | 14356 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/quarkusio/quarkus/releases/download/3.39.5/checksums_sha256.txt) | 181 B | `other` |
-| [quarkus-cli-3.39.5.tar.gz](https://github.com/quarkusio/quarkus/releases/download/3.39.5/quarkus-cli-3.39.5.tar.gz) | 14.4 MiB | `native/unknown` |
-| [quarkus-cli-3.39.5.zip](https://github.com/quarkusio/quarkus/releases/download/3.39.5/quarkus-cli-3.39.5.zip) | 14.4 MiB | `other` |
+| [checksums_sha256.txt](https://github.com/quarkusio/quarkus/releases/download/3.40.1/checksums_sha256.txt) | 181 B | `other` |
+| [quarkus-cli-3.40.1.tar.gz](https://github.com/quarkusio/quarkus/releases/download/3.40.1/quarkus-cli-3.40.1.tar.gz) | 14.4 MiB | `native/unknown` |
+| [quarkus-cli-3.40.1.zip](https://github.com/quarkusio/quarkus/releases/download/3.40.1/quarkus-cli-3.40.1.zip) | 14.4 MiB | `other` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for quarkus lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:55:11Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:22:19Z._
