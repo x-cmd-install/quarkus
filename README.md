@@ -14,25 +14,25 @@ x install quarkus
 
 ## Code insight
 
-Total: **1,836,318** lines of code across **27584** files in the top 5 languages.
+Total: **1,836,419** lines of code across **27586** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 1,384,235 | 182,827 | 296,396 | 22924 |
-| Xml | 165,744 | 2,983 | 8,187 | 2131 |
-| AsciiDoc | 124,256 | 3,151 | 40,476 | 367 |
+| Java | 1,384,201 | 182,785 | 296,411 | 22925 |
+| Xml | 165,859 | 2,984 | 8,191 | 2132 |
+| AsciiDoc | 124,258 | 3,151 | 40,476 | 367 |
 | JavaScript | 43,357 | 1,482 | 3,459 | 2059 |
 | Json | 40,103 | 0 | 7 | 103 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.8 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (-1/10) — internal error: internal error: invalid Dockerfile
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.0.0.Beta1` (2026-09-30)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-08
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 15,929 · **Forks**: 3,329 · **Open issues**: 21,179 · **Contributors**: 1,256
+- **Stars**: 15,931 · **Forks**: 3,329 · **Open issues**: 21,197 · **Contributors**: 1,257
 
 ## Totals (cumulative)
 
-- **Releases**: 521 · **Merged PRs**: 27826 · **Open PRs**: 432 · **Closed issues**: 18833 · **Open issues**: 2346 · **Commits**: 62692
+- **Releases**: 521 · **Merged PRs**: 27840 · **Open PRs**: 437 · **Closed issues**: 18837 · **Open issues**: 2360 · **Commits**: 62727
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 11 | 308 | 196 | 64 | 86 | 484 |
-| last60d | 2026-08-08 | 19 | 653 | 237 | 124 | 114 | 1113 |
-| 90d | 2026-07-09 | 28 | 945 | 262 | 230 | 150 | 1770 |
-| last180d | 2026-04-10 | 54 | 1942 | 311 | 551 | 272 | 4087 |
-| 360d | 2025-10-12 | 98 | 3504 | 360 | 1184 | 455 | 7403 |
-| last720d | 2024-10-17 | 100 | 6653 | 381 | 2915 | 835 | 14358 |
+| 30d | 2026-09-08 | 11 | 315 | 200 | 64 | 101 | 515 |
+| last60d | 2026-08-09 | 19 | 664 | 241 | 124 | 128 | 1144 |
+| 90d | 2026-07-10 | 28 | 946 | 266 | 231 | 162 | 1801 |
+| last180d | 2026-04-11 | 54 | 1955 | 316 | 553 | 285 | 4118 |
+| 360d | 2025-10-13 | 98 | 3503 | 364 | 1177 | 466 | 7434 |
+| last720d | 2024-10-18 | 100 | 6654 | 386 | 2917 | 846 | 14356 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for quarkus lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:20:19Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:29:31Z._
