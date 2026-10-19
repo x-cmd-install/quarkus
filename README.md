@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.0.0.Beta1` (2026-09-30)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-19
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 15,946 · **Forks**: 3,339 · **Open issues**: 21,301 · **Contributors**: 1,260
+- **Stars**: 15,947 · **Forks**: 3,338 · **Open issues**: 21,311 · **Contributors**: 1,260
 
 ## Totals (cumulative)
 
-- **Releases**: 521 · **Merged PRs**: 27983 · **Open PRs**: 467 · **Closed issues**: 18908 · **Open issues**: 2393 · **Commits**: 63029
+- **Releases**: 521 · **Merged PRs**: 27985 · **Open PRs**: 477 · **Closed issues**: 18909 · **Open issues**: 2402 · **Commits**: 63033
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 8 | 256 | 152 | 82 | 133 | 432 |
-| last60d | 2026-08-19 | 17 | 690 | 274 | 153 | 179 | 1164 |
-| 90d | 2026-07-20 | 26 | 1005 | 300 | 252 | 200 | 1800 |
-| last180d | 2026-04-21 | 52 | 1989 | 350 | 580 | 325 | 4048 |
-| 360d | 2025-10-23 | 95 | 3569 | 396 | 1199 | 505 | 7491 |
-| last720d | 2024-10-28 | 100 | 6718 | 418 | 2935 | 880 | 14477 |
+| 30d | 2026-09-19 | 8 | 258 | 162 | 82 | 143 | 436 |
+| last60d | 2026-08-20 | 16 | 680 | 284 | 149 | 189 | 1168 |
+| 90d | 2026-07-21 | 26 | 998 | 309 | 247 | 205 | 1804 |
+| last180d | 2026-04-22 | 52 | 1978 | 358 | 576 | 334 | 4052 |
+| 360d | 2025-10-24 | 95 | 3559 | 406 | 1196 | 515 | 7495 |
+| last720d | 2024-10-29 | 100 | 6704 | 427 | 2930 | 887 | 14472 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for quarkus lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:48:59Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:57:57Z._
