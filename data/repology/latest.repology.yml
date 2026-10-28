@@ -21,9 +21,9 @@
 - repo: nix_unstable
   srcname: quarkus
   visiblename: quarkus-cli
-  version: 3.40.1
+  version: 3.40.1.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Kubernetes-native Java framework tailored for GraalVM and HotSpot, crafted from best-of-breed Java libraries and standards
   maintainers:
     - contact+git@vinetos.fr
