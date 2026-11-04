@@ -2,9 +2,9 @@
   srcname: quarkuscli-bin
   binname: quarkuscli-bin
   visiblename: quarkuscli-bin
-  version: 3.39.4
-  origversion: 3.39.4-1
-  status: outdated
+  version: 3.40.1.1
+  origversion: 3.40.1.1-1
+  status: newest
   summary: Create projects, manage extensions and perform build and development tasks for Quarkus, the Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM.
   maintainers:
     - azurezeng@aur
