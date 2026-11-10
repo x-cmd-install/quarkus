@@ -14,13 +14,13 @@ x install quarkus
 
 ## Code insight
 
-Total: **1,865,754** lines of code across **28066** files in the top 5 languages.
+Total: **1,867,404** lines of code across **28084** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 1,411,315 | 186,988 | 301,644 | 23385 |
-| Xml | 166,921 | 3,015 | 8,246 | 2149 |
-| AsciiDoc | 125,169 | 3,129 | 40,794 | 368 |
+| Java | 1,412,895 | 187,239 | 301,898 | 23403 |
+| Xml | 166,935 | 3,019 | 8,246 | 2149 |
+| AsciiDoc | 125,225 | 3,129 | 40,813 | 368 |
 | JavaScript | 43,541 | 1,541 | 3,471 | 2059 |
 | Json | 40,114 | 0 | 7 | 105 |
 
@@ -42,36 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `4.0.0.Beta3` (2026-10-19)
-- **Last commit**: 2026-11-09
-- **Assets in release**: 3
+- **Latest**: `3.33.4.2` (2026-11-09)
+- **Last commit**: 2026-11-10
 
 ## Popularity
 
-- **Stars**: 15,978 · **Forks**: 3,359 · **Open issues**: 21,528 · **Contributors**: 1,282
+- **Stars**: 15,980 · **Forks**: 3,362 · **Open issues**: 21,542 · **Contributors**: 1,283
 
 ## Totals (cumulative)
 
-- **Releases**: 526 · **Merged PRs**: 28326 · **Open PRs**: 483 · **Closed issues**: 19098 · **Open issues**: 2430 · **Commits**: 63763
+- **Releases**: 528 · **Merged PRs**: 28347 · **Open PRs**: 496 · **Closed issues**: 19125 · **Open issues**: 2417 · **Commits**: 63809
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 5 | 368 | 147 | 149 | 144 | 589 |
-| last60d | 2026-09-10 | 16 | 757 | 268 | 257 | 229 | 1294 |
-| 90d | 2026-08-11 | 24 | 1114 | 302 | 321 | 256 | 2017 |
-| last180d | 2026-05-13 | 49 | 2081 | 359 | 617 | 382 | 4170 |
-| 360d | 2025-11-14 | 96 | 3750 | 411 | 1270 | 556 | 7806 |
-| last720d | 2024-11-19 | 100 | 6853 | 432 | 2976 | 916 | 14775 |
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/quarkusio/quarkus/releases/download/3.40.1.1/checksums_sha256.txt) | 185 B | `other` |
-| [quarkus-cli-3.40.1.1.tar.gz](https://github.com/quarkusio/quarkus/releases/download/3.40.1.1/quarkus-cli-3.40.1.1.tar.gz) | 14.4 MiB | `native/unknown` |
-| [quarkus-cli-3.40.1.1.zip](https://github.com/quarkusio/quarkus/releases/download/3.40.1.1/quarkus-cli-3.40.1.1.zip) | 14.4 MiB | `other` |
+| 30d | 2026-10-11 | 7 | 380 | 158 | 159 | 148 | 635 |
+| last60d | 2026-09-11 | 17 | 764 | 279 | 268 | 231 | 1341 |
+| 90d | 2026-08-12 | 26 | 1124 | 316 | 332 | 257 | 2064 |
+| last180d | 2026-05-14 | 49 | 2089 | 372 | 627 | 382 | 4217 |
+| 360d | 2025-11-15 | 97 | 3768 | 425 | 1279 | 557 | 7853 |
+| last720d | 2024-11-20 | 100 | 6860 | 445 | 2992 | 912 | 14801 |
 
 ## Distribution status
 
@@ -90,4 +81,4 @@ Install metadata for quarkus lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:55:55Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:59:18Z._
