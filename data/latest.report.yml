@@ -2,28 +2,28 @@ about:
   description: "Quarkus: Supersonic Subatomic Java. "
   license: Apache-2.0
   homepage: https://quarkus.io
-  head: 347b069
+  head: e060629
   archived: false
   latestVersion: "4.0.1"
   latestRelease: "4.0.1"
   latestPrerelease: "4.0.0.CR1"
-  collectedAt: 2026-11-27T10:07:19Z
+  collectedAt: 2026-11-28T09:37:40Z
 timeline:
   created: 2018-07-06
-  lastCommit: 2026-11-27
+  lastCommit: 2026-11-28
   lastVersion: 2026-11-25
   lastRelease: 2026-11-25
   lastPrerelease: 2026-11-11
 popularity:
-  star: 16005
-  watcher: 259
-  fork: 3381
+  star: 16006
+  watcher: 265
+  fork: 3382
   release: 531
-  contributor: 1306
-  pullRequest: 33820
-  issue: 21730
+  contributor: 1307
+  pullRequest: 33829
+  issue: 21754
 language:
-  Java: 73840397
+  Java: 73873449
   JavaScript: 2039479
   HTML: 1755626
   Kotlin: 822238
@@ -38,82 +38,82 @@ language:
   Just: 1053
   Dockerfile: 895
   PLpgSQL: 220
-totalBytes: 78652098
+totalBytes: 78685150
 recent:
   last30d:
-    since: 2026-10-28
-    release: 7
-    mergedPR: 445
-    openPR: 114
-    closedIssue: 154
-    openIssue: 153
-    commit: 905
+    since: 2026-10-29
+    release: 6
+    mergedPR: 435
+    openPR: 115
+    closedIssue: 148
+    openIssue: 173
+    commit: 925
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 15
-    mergedPR: 857
-    openPR: 175
-    closedIssue: 356
-    openIssue: 259
-    commit: 1661
+    mergedPR: 848
+    openPR: 178
+    closedIssue: 354
+    openIssue: 281
+    commit: 1681
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 24
-    mergedPR: 1263
-    openPR: 271
-    closedIssue: 430
-    openIssue: 295
-    commit: 2407
+    mergedPR: 1267
+    openPR: 275
+    closedIssue: 432
+    openIssue: 317
+    commit: 2427
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 48
-    mergedPR: 2230
-    openPR: 336
-    closedIssue: 712
-    openIssue: 404
-    commit: 4437
+    mergedPR: 2220
+    openPR: 339
+    closedIssue: 708
+    openIssue: 425
+    commit: 4457
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 95
-    mergedPR: 3939
-    openPR: 386
-    closedIssue: 1349
-    openIssue: 585
-    commit: 8199
+    mergedPR: 3928
+    openPR: 390
+    closedIssue: 1345
+    openIssue: 605
+    commit: 8219
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
-    mergedPR: 7045
-    openPR: 411
-    closedIssue: 3027
-    openIssue: 911
-    commit: 15100
+    mergedPR: 7048
+    openPR: 415
+    closedIssue: 3025
+    openIssue: 933
+    commit: 15106
 total:
   release: 531
-  mergedPR: 28680
-  openPR: 461
-  closedIssue: 19292
-  openIssue: 2438
-  commit: 64453
+  mergedPR: 28685
+  openPR: 465
+  closedIssue: 19294
+  openIssue: 2460
+  commit: 64468
 ---
 path: /home/runner/.x-repo/github.com/quarkusio/quarkus
-collectedAt: 2026-11-27T10:08:35Z
+collectedAt: 2026-11-28T09:39:06Z
 loc:
   Java:
-    code: 1444024
-    comments: 192059
-    blanks: 307877
-    files: 23831
+    code: 1444482
+    comments: 192199
+    blanks: 307967
+    files: 23835
   Xml:
-    code: 168157
+    code: 168162
     comments: 3029
     blanks: 8323
     files: 2169
   AsciiDoc:
-    code: 128254
+    code: 128446
     comments: 3154
-    blanks: 41726
-    files: 371
+    blanks: 41794
+    files: 372
   JavaScript:
     code: 43894
     comments: 1548
@@ -230,10 +230,10 @@ loc:
     blanks: 48
     files: 83
 total:
-  code: 1911312
-  comments: 214103
-  blanks: 371052
-  files: 30228
+  code: 1911967
+  comments: 214243
+  blanks: 371210
+  files: 30233
 ---
 date: "2026-11-16"
 repo:
